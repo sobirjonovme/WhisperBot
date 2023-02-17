@@ -27,6 +27,7 @@ git clone https://github.com/sobirjonovme/WhisperBot.git
 ```
 
 2. Create a virtual environment and activate it:
+
 ```bash
 python -m venv env
 source env/bin/activate # for Linux/Mac
@@ -34,13 +35,15 @@ source env/bin/activate # for Linux/Mac
 ```
 
 3. Install the required packages:
+
 ``` bash
 pip install -r requirements.txt
 ```
 
 4. Create a `.env` file based on the `.env.dist` file and add your Telegram Bot token. 
 
-5. Run the bot using the command 
+5. Run the bot using the command:
+
 ``` bash
 python main.py
 ```
