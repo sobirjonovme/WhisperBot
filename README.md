@@ -48,4 +48,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Now you can use the bot in your own Telegram account. Enjoy! 
+##### Now you can use the bot with your own Telegram bot token. Enjoy! 
